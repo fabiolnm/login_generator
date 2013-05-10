@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'login_generator/version'
 
 Gem::Specification.new do |gem|
-  gem.name          = "login_generator"
+  gem.name          = "simple_login_generator"
   gem.version       = LoginGenerator::VERSION
   gem.authors       = ["Fábio Luiz Nery de Miranda"]
   gem.email         = ["fabio@miranti.net.br"]
